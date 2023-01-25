@@ -3,7 +3,7 @@
 ***WhatsApp OpenAI Create with NodeJS Using Library [Baileys](https://github.com/adiwajshing/Baileys)***
 
 ## LIVE DEMO
-<a href="https://s.id/bot-ai" target="_blank"><img src="https://raw.githubusercontent.com/Sansekai/yusril-grabbed-result/main/img/button-demo.png" alt="Donate For Yusril" height="40" width="170"></a>
+<a href="https://status.vanzpro.biz.id" target="_blank"><img src="https://raw.githubusercontent.com/Sansekai/yusril-grabbed-result/main/img/button-demo.png" alt="Donate For Yusril" height="40" width="170"></a>
 
 ## BACA DULU
 Terdapat 2 tipe yaitu menggunakan command dan tanpa menggunakan command (auto chat).
@@ -20,7 +20,7 @@ Terdapat 2 tipe yaitu menggunakan command dan tanpa menggunakan command (auto ch
 Install [NodeJS](https://nodejs.org/en/download/)
  dan [Git Bash](https://git-scm.com/downloads) terlebih dahulu
 ```bash
-$ git clone https://github.com/Sansekai/Wa-OpenAI
+$ git clone https://github.com/Vanz/Wa
 $ cd Wa-OpenAI
 $ npm install
 $ node index.js
@@ -45,7 +45,7 @@ $ node index.js
 <a href="https://saweria.co/Sansekai" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Yusril" height="41" width="174"></a>
 
 ## License
-[MIT License](https://github.com/Sansekai/Wa-OpenAI/blob/main/LICENSE)
+[MIT License](https://github.com/VanZPro/Wa/blob/main/LICENSE)
 
-Copyright (c) 2022 M Yusril
+Copyright (c) 2022 VanZPro
 
